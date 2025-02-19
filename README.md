@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian.
 - 👀 I am a passionate artist interested in software and full stack development.
-- 🌱 I’m currently working as a Software Engineering Intern at Humana.
+- 🌱 I’m currently working as a Software Engineering Intern at Virtual Peaker.
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects.
 - 📫 You can reach me through my e-mail [ianpemb01@gmail.com](mailto:ianpemb01@gmail.com).
 
